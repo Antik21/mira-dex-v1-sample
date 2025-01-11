@@ -29,9 +29,9 @@ Ensure you have the following installed:
 
 3. Create a .env file in the root of the project and specify the following:
   ```
-PROVIDER_URL=https://fuel.network.mainnet
-CONTRACT_ID=0xYOUR_CONTRACT_ID
-WALLET_PK=0xYOUR_PRIVATE_KEY
+PROVIDER_URL=https://mainnet.fuel.network/v1/graphql
+CONTRACT_ID=0x2e40f2b244b98ed6b8204b3de0156c6961f98525c8162f80162fcf53eebd90e7
+WALLET_PK=<YOUR_PRIVATE_KEY>
 ```
 
 ## Usage
